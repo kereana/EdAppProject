@@ -7,6 +7,8 @@ using UnityEngine.UI;
 
 public class LevelManager : MonoBehaviour {
 
+    public string lastScene;
+    public string currentScene;
 
     public void MainMenu()
     {
@@ -26,6 +28,14 @@ public class LevelManager : MonoBehaviour {
     public void BackButton()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+    }
+
+    public void LoadLastScene()
+    {
+        string last = lastScene;
+        lastScene = currentScene;
+        currentScene = last;
+        SceneManager.LoadScene(currentScene);
     }
 
     public void SceneA()
