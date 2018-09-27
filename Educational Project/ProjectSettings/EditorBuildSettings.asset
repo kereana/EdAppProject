@@ -4,4 +4,55 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Buttons.unity
+    guid: 22cd55598154aaf42a2ee5fcaefb9679
+  - enabled: 1
+    path: Assets/Scenes/AScenes/SceneA.unity
+    guid: 2bf16bc3be295824e92ce51a4e5b2266
+  - enabled: 1
+    path: Assets/Scenes/AScenes/SceneA1.unity
+    guid: 5d3df00a622a7a84ebdd48a4d405d6b2
+  - enabled: 1
+    path: Assets/Scenes/EScenes/SceneE.unity
+    guid: b9cdd16c3dc68f74ea62ef74cbe31f81
+  - enabled: 1
+    path: Assets/Scenes/AScenes/SceneHA.unity
+    guid: 419c06a68d4f193459eacfb384b61ae5
+  - enabled: 1
+    path: Assets/Scenes/AScenes/SceneHA1.unity
+    guid: e8d127d1ba6cccc449f06123851b790e
+  - enabled: 1
+    path: Assets/Scenes/Dictionary.unity
+    guid: 40fb59da27f7d4d44b4efc7d136b78d1
+  - enabled: 1
+    path: Assets/Scenes/AScenes/SceneKA.unity
+    guid: 29b968f2c80ece64d880cea8d27d66f4
+  - enabled: 1
+    path: Assets/Scenes/AScenes/SceneMA.unity
+    guid: 9c93e44aca076b7409abdda16bb2e786
+  - enabled: 0
+    path: 
+    guid: 7d64fa4b06c1acd448a125ec9f4eb9ce
+  - enabled: 1
+    path: Assets/Scenes/AScenes/SceneNA.unity
+    guid: dcc1c7559a67ea647b6b371aafb8a0f3
+  - enabled: 1
+    path: Assets/Scenes/AScenes/ScenePA.unity
+    guid: aa303871f5add864886c668afee70ebd
+  - enabled: 1
+    path: Assets/Scenes/AScenes/SceneRA.unity
+    guid: 69d1ae2a79b9f334099a9a41b0ecd46e
+  - enabled: 1
+    path: Assets/Scenes/AScenes/SceneTA.unity
+    guid: b537c53c801d92941b4dd7cd3c634a86
+  - enabled: 1
+    path: Assets/Scenes/AScenes/SceneWA.unity
+    guid: 45da69ef353eefa4895aed22fcf2cf66
+  - enabled: 1
+    path: Assets/Scenes/AScenes/SceneNGA.unity
+    guid: 6a0bb37a53b0c0b47918684f9351c4f4
+  - enabled: 1
+    path: Assets/Scenes/AScenes/SceneWHA.unity
+    guid: 9814fd4bc242cf741b2aab283b78caef
