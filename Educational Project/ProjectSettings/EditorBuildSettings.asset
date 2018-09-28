@@ -30,8 +30,14 @@ EditorBuildSettings:
     path: Assets/Scenes/AScenes/SceneKA.unity
     guid: 29b968f2c80ece64d880cea8d27d66f4
   - enabled: 1
+    path: Assets/Scenes/AScenes/SceneKA1.unity
+    guid: 5f1c7031d3ebfbc4c8fc54550efeaf10
+  - enabled: 1
     path: Assets/Scenes/AScenes/SceneMA.unity
     guid: 9c93e44aca076b7409abdda16bb2e786
+  - enabled: 1
+    path: Assets/Scenes/AScenes/SceneMA1.unity
+    guid: 7d2f87cbf4c6e574cbe0df23e3462722
   - enabled: 0
     path: 
     guid: 7d64fa4b06c1acd448a125ec9f4eb9ce
@@ -39,20 +45,41 @@ EditorBuildSettings:
     path: Assets/Scenes/AScenes/SceneNA.unity
     guid: dcc1c7559a67ea647b6b371aafb8a0f3
   - enabled: 1
+    path: Assets/Scenes/AScenes/SceneNA1.unity
+    guid: 4fffd2cbe3fc696479f0d746c2070c65
+  - enabled: 1
     path: Assets/Scenes/AScenes/ScenePA.unity
     guid: aa303871f5add864886c668afee70ebd
+  - enabled: 1
+    path: Assets/Scenes/AScenes/ScenePA1.unity
+    guid: dce992084ec34dd428bdefcb2427ecab
   - enabled: 1
     path: Assets/Scenes/AScenes/SceneRA.unity
     guid: 69d1ae2a79b9f334099a9a41b0ecd46e
   - enabled: 1
+    path: Assets/Scenes/AScenes/SceneRA1.unity
+    guid: 0980a5062dc05a2459526959ea8415ea
+  - enabled: 1
     path: Assets/Scenes/AScenes/SceneTA.unity
     guid: b537c53c801d92941b4dd7cd3c634a86
+  - enabled: 1
+    path: Assets/Scenes/AScenes/SceneTA1.unity
+    guid: 5409a4ed3dcfa194c96da2f64fc79e53
   - enabled: 1
     path: Assets/Scenes/AScenes/SceneWA.unity
     guid: 45da69ef353eefa4895aed22fcf2cf66
   - enabled: 1
+    path: Assets/Scenes/AScenes/SceneWA1.unity
+    guid: 27b28200d63d2d24ca9f3258f301c8b3
+  - enabled: 1
     path: Assets/Scenes/AScenes/SceneNGA.unity
     guid: 6a0bb37a53b0c0b47918684f9351c4f4
   - enabled: 1
+    path: Assets/Scenes/AScenes/SceneNGA1.unity
+    guid: 87bb9c840fdbe474bbf055aba71a469a
+  - enabled: 1
     path: Assets/Scenes/AScenes/SceneWHA.unity
     guid: 9814fd4bc242cf741b2aab283b78caef
+  - enabled: 1
+    path: Assets/Scenes/AScenes/SceneWHA1.unity
+    guid: 4a8c27f8cd904d94e8ac2339c74b7bc9
