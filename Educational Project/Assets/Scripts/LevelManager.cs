@@ -38,6 +38,7 @@ public class LevelManager : MonoBehaviour {
         SceneManager.LoadScene(currentScene);
     }
 
+    //AScene Folder
     public void SceneA()
     {
         SceneManager.LoadScene("SceneA");
@@ -98,9 +99,61 @@ public class LevelManager : MonoBehaviour {
         SceneManager.LoadScene("SceneWHA");
     }
 
+    //sceneE folder
+
     public void SceneE()
     {
         SceneManager.LoadScene("SceneE");
+    }
+
+    public void SceneHE()
+    {
+        SceneManager.LoadScene("SceneHE");
+    }
+
+    public void SceneKE()
+    {
+        SceneManager.LoadScene("SceneKE");
+    }
+
+    public void SceneME()
+    {
+        SceneManager.LoadScene("SceneME");
+    }
+
+    public void SceneNE()
+    {
+        SceneManager.LoadScene("SceneNE");
+    }
+    
+    public void SceneNGE()
+    {
+        SceneManager.LoadScene("SceneNGE");
+    }
+
+    public void ScenePE()
+    {
+        SceneManager.LoadScene("ScenePE");
+    }
+
+    public void SceneRE()
+    {
+        SceneManager.LoadScene("SceneRE");
+    }
+
+    public void SceneTE()
+    {
+        SceneManager.LoadScene("SceneTE");
+    }
+
+    public void SceneWE()
+    {
+        SceneManager.LoadScene("SceneWE");
+    }
+
+    public void SceneWHE()
+    {
+        SceneManager.LoadScene("SceneWHE");
     }
 }
 

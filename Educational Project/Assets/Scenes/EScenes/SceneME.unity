@@ -183,7 +183,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 62094502}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1768341872}
+        m_MethodName: MainMenu
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &62094502
@@ -856,7 +867,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1238405962}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1768341872}
+        m_MethodName: ForwardButton
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &1238405962
@@ -1265,8 +1287,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000012398, y: 4.9}
-  m_SizeDelta: {x: 139.3, y: 134.7}
+  m_AnchoredPosition: {x: 0.000012398, y: 4.9}
+  m_SizeDelta: {x: 149.8, y: 134.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1584841808
 MonoBehaviour:
@@ -1300,7 +1322,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Ee
+  m_Text: me
 --- !u!222 &1584841809
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1328,15 +1350,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4496232188679308, guid: abb67b59f80f89244805abe8da35606f, type: 2}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4496232188679308, guid: abb67b59f80f89244805abe8da35606f, type: 2}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4496232188679308, guid: abb67b59f80f89244805abe8da35606f, type: 2}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4496232188679308, guid: abb67b59f80f89244805abe8da35606f, type: 2}
       propertyPath: m_LocalRotation.w
