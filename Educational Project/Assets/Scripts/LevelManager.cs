@@ -155,5 +155,115 @@ public class LevelManager : MonoBehaviour {
     {
         SceneManager.LoadScene("SceneWHE");
     }
+
+    //HScene folder
+
+    public void SceneH()
+    {
+        SceneManager.LoadScene("SceneH");
+    }
+
+    public void SceneK()
+    {
+        SceneManager.LoadScene("SceneK");
+    }
+
+    public void SceneM()
+    {
+        SceneManager.LoadScene("SceneM");
+    }
+
+    public void SceneN()
+    {
+        SceneManager.LoadScene("SceneN");
+    }
+
+    public void SceneNG()
+    {
+        SceneManager.LoadScene("SceneNG");
+    }
+
+    public void SceneP()
+    {
+        SceneManager.LoadScene("SceneP");
+    }
+
+    public void SceneR()
+    {
+        SceneManager.LoadScene("SceneR");
+    }
+
+    public void SceneT()
+    {
+        SceneManager.LoadScene("SceneT");
+    }
+
+    public void SceneW()
+    {
+        SceneManager.LoadScene("SceneW");
+    }
+
+    public void SceneWH()
+    {
+        SceneManager.LoadScene("SceneWH");
+    }
+
+    //IScene folder
+
+    public void SceneI()
+    {
+        SceneManager.LoadScene("SceneI");
+    }
+
+    public void SceneHI()
+    {
+        SceneManager.LoadScene("SceneHI");
+    }
+
+    public void SceneKI()
+    {
+        SceneManager.LoadScene("SceneKI");
+    }
+
+    public void SceneMI()
+    {
+        SceneManager.LoadScene("SceneMI");
+    }
+
+    public void SceneNI()
+    {
+        SceneManager.LoadScene("SceneNI");
+    }
+
+    public void SceneNGI()
+    {
+        SceneManager.LoadScene("SceneNGI");
+    }
+
+    public void ScenePI()
+    {
+        SceneManager.LoadScene("ScenePI");
+    }
+
+    public void SceneRI()
+    {
+        SceneManager.LoadScene("SceneRI");
+    }
+
+    public void SceneTI()
+    {
+        SceneManager.LoadScene("SceneTI");
+    }
+
+    public void SceneWI()
+    {
+        SceneManager.LoadScene("SceneWI");
+    }
+
+    public void SceneWHI()
+    {
+        SceneManager.LoadScene("SceneWHI");
+    }
+
 }
 
