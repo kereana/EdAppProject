@@ -321,5 +321,62 @@ public class LevelManager : MonoBehaviour {
     {
         SceneManager.LoadScene("SceneWHO");
     }
+
+    //UScene folder
+
+    public void SceneU()
+    {
+        SceneManager.LoadScene("SceneU");
+    }
+
+    public void SceneHU()
+    {
+        SceneManager.LoadScene("SceneHU");
+    }
+
+    public void SceneKU()
+    {
+        SceneManager.LoadScene("SceneKU");
+    }
+
+    public void SceneMU()
+    {
+        SceneManager.LoadScene("SceneMU");
+    }
+
+    public void SceneNU()
+    {
+        SceneManager.LoadScene("SceneNU");
+    }
+
+    public void SceneNGU()
+    {
+        SceneManager.LoadScene("SceneNGU");
+    }
+
+    public void ScenePU()
+    {
+        SceneManager.LoadScene("ScenePU");
+    }
+
+    public void SceneRU()
+    {
+        SceneManager.LoadScene("SceneRU");
+    }
+
+    public void SceneTU()
+    {
+        SceneManager.LoadScene("SceneTU");
+    }
+
+    public void SceneWU()
+    {
+        SceneManager.LoadScene("SceneWU");
+    }
+
+    public void SceneWHU()
+    {
+        SceneManager.LoadScene("SceneWHU");
+    }
 }
 

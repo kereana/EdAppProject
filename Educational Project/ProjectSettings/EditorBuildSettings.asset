@@ -150,7 +150,7 @@ EditorBuildSettings:
     path: Assets/Scenes/HScenes/SceneH.unity
     guid: e88e4638dfe52614db85ebb121456536
   - enabled: 0
-    path: Assets/Scenes/HScenes/SceneHI.unity
+    path: 
     guid: 575420ae5764a8b43808c43aac0a6cc8
   - enabled: 1
     path: Assets/Scenes/HScenes/SceneH1.unity
@@ -341,3 +341,69 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/OScenes/SceneWO1.unity
     guid: 31579b1e1ec7d384f94898ce6afbb39d
+  - enabled: 1
+    path: Assets/Scenes/UScenes/SceneHU.unity
+    guid: 500dc375b62110e4fb40836b08a21d9d
+  - enabled: 1
+    path: Assets/Scenes/UScenes/SceneHU1.unity
+    guid: 1309d40d8d1dc43408834d19ced8455a
+  - enabled: 1
+    path: Assets/Scenes/UScenes/SceneKU.unity
+    guid: cb2c1bc6cf35fb749b177af51af5ba96
+  - enabled: 1
+    path: Assets/Scenes/UScenes/SceneKU1.unity
+    guid: ccc0127323e0d364fb77c982066e3f44
+  - enabled: 1
+    path: Assets/Scenes/UScenes/SceneMU.unity
+    guid: fa9a5e7231e2a2743a521eb2dbe6038e
+  - enabled: 1
+    path: Assets/Scenes/UScenes/SceneMU1.unity
+    guid: ddbc5226d16fe114c8447c410ea01c2f
+  - enabled: 1
+    path: Assets/Scenes/UScenes/SceneNGU.unity
+    guid: a0b48904f41c34741bdb1ca32d01092b
+  - enabled: 1
+    path: Assets/Scenes/UScenes/SceneNGU1.unity
+    guid: 939e9b513d89f514e94e4ccab37ec8b1
+  - enabled: 1
+    path: Assets/Scenes/UScenes/SceneNU.unity
+    guid: cfc4814577814994a857ff7b81bf273c
+  - enabled: 1
+    path: Assets/Scenes/UScenes/SceneNU1.unity
+    guid: 3b8ee16b9f1a2ec4dbd42f42baf94c23
+  - enabled: 1
+    path: Assets/Scenes/UScenes/ScenePU.unity
+    guid: 2feb99687cd94bd49a73f9054d6e0a90
+  - enabled: 1
+    path: Assets/Scenes/UScenes/ScenePU1.unity
+    guid: 70204892e1a9ec34e9cf3dc6b086b510
+  - enabled: 1
+    path: Assets/Scenes/UScenes/SceneRU.unity
+    guid: c5722a18ab9d44e40b36bcf0fd56cd85
+  - enabled: 1
+    path: Assets/Scenes/UScenes/SceneRU1.unity
+    guid: 9534369e75acea741b688aa19d994fbf
+  - enabled: 1
+    path: Assets/Scenes/UScenes/SceneTU.unity
+    guid: 63963d8d408ca62468cc0e8b6993f47f
+  - enabled: 1
+    path: Assets/Scenes/UScenes/SceneTU1.unity
+    guid: 1d7f53205686fb94a8520c704cc0b315
+  - enabled: 1
+    path: Assets/Scenes/UScenes/SceneU.unity
+    guid: 4992e8259df421b44ac9da518b0fba81
+  - enabled: 1
+    path: Assets/Scenes/UScenes/SceneU1.unity
+    guid: b02b9bb8076d0454383a7284f666085e
+  - enabled: 1
+    path: Assets/Scenes/UScenes/SceneWHU.unity
+    guid: bb20b3c180aff204a8266b5d2eddcaf0
+  - enabled: 1
+    path: Assets/Scenes/UScenes/SceneWHU1.unity
+    guid: 1ffeaf48069bdc7488eeea948ace8f53
+  - enabled: 1
+    path: Assets/Scenes/UScenes/SceneWU.unity
+    guid: 85bfa37d5ca77e6498bedce43d90c18e
+  - enabled: 1
+    path: Assets/Scenes/UScenes/SceneWU1.unity
+    guid: 12d104e32da6a9044b25218af84c9c8e
