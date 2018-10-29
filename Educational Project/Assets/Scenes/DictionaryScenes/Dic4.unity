@@ -230,7 +230,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 26c0f9a3a3dd5834badb4a1d3f36988a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4d4c07e1c612a0846bba4921319cb2c0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -253,7 +253,7 @@ GameObject:
   m_Component:
   - component: {fileID: 64729640}
   m_Layer: 5
-  m_Name: HikoWord
+  m_Name: NgutuWord
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -287,7 +287,7 @@ GameObject:
   m_Component:
   - component: {fileID: 86252742}
   m_Layer: 5
-  m_Name: HekiWord
+  m_Name: NgokiWord
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -321,7 +321,7 @@ GameObject:
   m_Component:
   - component: {fileID: 207775196}
   m_Layer: 5
-  m_Name: HekiImage
+  m_Name: NgokiImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -358,7 +358,7 @@ GameObject:
   - component: {fileID: 211452911}
   - component: {fileID: 211452910}
   m_Layer: 5
-  m_Name: BtnAporoImage
+  m_Name: BtnNgataImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -380,8 +380,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 7.0000267}
-  m_SizeDelta: {x: 118.6, y: 109.7}
+  m_AnchoredPosition: {x: 0, y: 2.1}
+  m_SizeDelta: {x: 140.1, y: 109.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &211452910
 MonoBehaviour:
@@ -448,7 +448,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: ed79f08fa9c8b6c48895a6ee1c244f47,
+          m_ObjectArgument: {fileID: 8300000, guid: 959a9afa5914db34dabf23f69b354274,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -500,7 +500,7 @@ GameObject:
   m_Component:
   - component: {fileID: 223038828}
   m_Layer: 5
-  m_Name: HamararaImage
+  m_Name: NgiraImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -579,7 +579,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: e39d6b69ecd9ced439271597005f0692, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9c618d41a0a468c4e84e536353a1a1f5, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -647,7 +647,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 896a84fab68493b41ac4e476e95c8ae5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: db4d8411fb299ab4687c3886cd7bc1d0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -673,7 +673,7 @@ GameObject:
   - component: {fileID: 298133627}
   - component: {fileID: 298133626}
   m_Layer: 5
-  m_Name: BtnHoihoTxt
+  m_Name: BtnNohoTxt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -695,8 +695,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0000076293945, y: 6}
-  m_SizeDelta: {x: 207.5, y: 47.6}
+  m_AnchoredPosition: {x: -0.0000076294, y: 7}
+  m_SizeDelta: {x: 141.2, y: 47.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &298133626
 MonoBehaviour:
@@ -763,7 +763,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: c2a06e41f85edc543ade3243d197e524,
+          m_ObjectArgument: {fileID: 8300000, guid: 002e54f9beb1a3b43b3fc717128d2104,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -818,7 +818,7 @@ GameObject:
   - component: {fileID: 317641802}
   - component: {fileID: 317641801}
   m_Layer: 5
-  m_Name: BtnHoihoImage
+  m_Name: BtnNohoImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -840,8 +840,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -1.1, y: 4.55}
-  m_SizeDelta: {x: 149.6, y: 104.8}
+  m_AnchoredPosition: {x: 0.000011444, y: 5.6}
+  m_SizeDelta: {x: 98.8, y: 113.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &317641801
 MonoBehaviour:
@@ -908,7 +908,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: c2a06e41f85edc543ade3243d197e524,
+          m_ObjectArgument: {fileID: 8300000, guid: 002e54f9beb1a3b43b3fc717128d2104,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -963,7 +963,7 @@ GameObject:
   - component: {fileID: 322077295}
   - component: {fileID: 322077294}
   m_Layer: 5
-  m_Name: BtnHekiTxt
+  m_Name: BtnNgokiTxt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1053,7 +1053,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 16c53ba5152b64c4bb66daf95aa9e0ac,
+          m_ObjectArgument: {fileID: 8300000, guid: 89c89ea959eb4ce41ae88bf3e6bd5ed1,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -1105,7 +1105,7 @@ GameObject:
   m_Component:
   - component: {fileID: 421643328}
   m_Layer: 5
-  m_Name: EkaraImage
+  m_Name: NgeruImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1142,7 +1142,7 @@ GameObject:
   - component: {fileID: 489852856}
   - component: {fileID: 489852855}
   m_Layer: 5
-  m_Name: BtnHikoImage
+  m_Name: BtnNgutuImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1164,8 +1164,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 7.0000267}
-  m_SizeDelta: {x: 118.6, y: 109.7}
+  m_AnchoredPosition: {x: -0.000002861, y: 7.0000267}
+  m_SizeDelta: {x: 131, y: 109.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &489852855
 MonoBehaviour:
@@ -1232,7 +1232,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 0fd9ceb53a610ad46ab2725ee19be27f,
+          m_ObjectArgument: {fileID: 8300000, guid: e2c01ded0b0b37a4d9c35f6308374f92,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -1284,7 +1284,7 @@ GameObject:
   m_Component:
   - component: {fileID: 491328391}
   m_Layer: 5
-  m_Name: EkaraWord
+  m_Name: NgeruWord
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1363,7 +1363,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 18a259df695b80f4ca13f89aed444963, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3cf1a9734d3df6540aede42e1371a92e, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1444,7 +1444,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: hukarere
+  m_Text: noke
 --- !u!222 &535568461
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1460,7 +1460,7 @@ GameObject:
   m_Component:
   - component: {fileID: 599817750}
   m_Layer: 5
-  m_Name: AporoImage
+  m_Name: NgataImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1583,7 +1583,7 @@ GameObject:
   m_Component:
   - component: {fileID: 689912678}
   m_Layer: 5
-  m_Name: HikoImage
+  m_Name: NgutuImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1662,7 +1662,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 70d2f90c12d932d4e9ede7cf0b9d94aa, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a6b71205399ddd64494972187d77793f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1756,7 +1756,7 @@ GameObject:
   - component: {fileID: 773193581}
   - component: {fileID: 773193580}
   m_Layer: 5
-  m_Name: BtnAporoTxt
+  m_Name: BtnNgataTxt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1846,7 +1846,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: ed79f08fa9c8b6c48895a6ee1c244f47,
+          m_ObjectArgument: {fileID: 8300000, guid: 959a9afa5914db34dabf23f69b354274,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -1956,7 +1956,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: hiko
+  m_Text: ngutu
 --- !u!222 &819818674
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1972,7 +1972,7 @@ GameObject:
   m_Component:
   - component: {fileID: 837434994}
   m_Layer: 5
-  m_Name: HukarereWord
+  m_Name: NokeWord
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2074,7 +2074,7 @@ GameObject:
   m_Component:
   - component: {fileID: 838579510}
   m_Layer: 5
-  m_Name: HipiWord
+  m_Name: NihoWord
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2452,7 +2452,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: ekara
+  m_Text: ngeru
 --- !u!222 &999962825
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2577,7 +2577,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1060475323}
   m_Layer: 5
-  m_Name: HoihoWord
+  m_Name: NohoWord
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2810,7 +2810,7 @@ GameObject:
   - component: {fileID: 1194646211}
   - component: {fileID: 1194646210}
   m_Layer: 5
-  m_Name: BtnHamararaTxt
+  m_Name: BtnNgiraTxt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2832,8 +2832,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0000076293945, y: 6}
-  m_SizeDelta: {x: 207.5, y: 47.6}
+  m_AnchoredPosition: {x: 0.000011444, y: 5}
+  m_SizeDelta: {x: 130.9, y: 47.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1194646210
 MonoBehaviour:
@@ -2900,7 +2900,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 3bf7fc98c0e42c74e948d4c66bb29977,
+          m_ObjectArgument: {fileID: 8300000, guid: 0b0831abd86219b459b391777de48f04,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -3010,7 +3010,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: heki
+  m_Text: ngoki
 --- !u!222 &1294355304
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3026,7 +3026,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1333442981}
   m_Layer: 5
-  m_Name: HukarereImage
+  m_Name: NokeImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3060,7 +3060,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1431506741}
   m_Layer: 5
-  m_Name: HipiImage
+  m_Name: NihoImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3201,7 +3201,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 5d148e1b97670fc4a94dbbaf26e46400, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3f2d4a97c081be24595702cf10baf6a0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3224,7 +3224,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1494503262}
   m_Layer: 5
-  m_Name: HoihoImage
+  m_Name: NohoImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3261,7 +3261,7 @@ GameObject:
   - component: {fileID: 1550006687}
   - component: {fileID: 1550006686}
   m_Layer: 5
-  m_Name: BtnHikoTxt
+  m_Name: BtnNgutuTxt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3351,7 +3351,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 0fd9ceb53a610ad46ab2725ee19be27f,
+          m_ObjectArgument: {fileID: 8300000, guid: e2c01ded0b0b37a4d9c35f6308374f92,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -3403,7 +3403,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1577457285}
   m_Layer: 5
-  m_Name: AporoWord
+  m_Name: NgataWord
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3678,7 +3678,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: hamarara
+  m_Text: ngira
 --- !u!222 &1649619070
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3697,7 +3697,7 @@ GameObject:
   - component: {fileID: 1711264574}
   - component: {fileID: 1711264573}
   m_Layer: 5
-  m_Name: BtnEkaraTxt
+  m_Name: BtnNgeruTxt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3787,7 +3787,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: d09584a4ab10803428f4c4772ac92049,
+          m_ObjectArgument: {fileID: 8300000, guid: 0430e4198202b2b408b3ecd825512317,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -3897,7 +3897,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: hipi
+  m_Text: niho
 --- !u!222 &1769672675
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3916,7 +3916,7 @@ GameObject:
   - component: {fileID: 1804708570}
   - component: {fileID: 1804708569}
   m_Layer: 5
-  m_Name: BtnHukarereImage
+  m_Name: BtnNokeImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3938,8 +3938,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 7.0000267}
-  m_SizeDelta: {x: 118.6, y: 109.7}
+  m_AnchoredPosition: {x: 0.0000038147, y: 2.1}
+  m_SizeDelta: {x: 140.1, y: 109.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1804708569
 MonoBehaviour:
@@ -4006,7 +4006,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: ea00f3f02a010274abe5fba01cd62fcd,
+          m_ObjectArgument: {fileID: 8300000, guid: 7f54caba666e0b648b317f6e3e3b1b7b,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -4061,7 +4061,7 @@ GameObject:
   - component: {fileID: 1819082808}
   - component: {fileID: 1819082807}
   m_Layer: 5
-  m_Name: BtnHamararaImage
+  m_Name: BtnNgiraImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4151,7 +4151,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 3bf7fc98c0e42c74e948d4c66bb29977,
+          m_ObjectArgument: {fileID: 8300000, guid: 0b0831abd86219b459b391777de48f04,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -4206,7 +4206,7 @@ GameObject:
   - component: {fileID: 1820469057}
   - component: {fileID: 1820469056}
   m_Layer: 5
-  m_Name: BtnEkaraImage
+  m_Name: BtnNgeruImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4296,7 +4296,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: d09584a4ab10803428f4c4772ac92049,
+          m_ObjectArgument: {fileID: 8300000, guid: 0430e4198202b2b408b3ecd825512317,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -4406,7 +4406,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: hoihi
+  m_Text: noho
 --- !u!222 &1899792795
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4422,7 +4422,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1992626122}
   m_Layer: 5
-  m_Name: HamararaWord
+  m_Name: NgiraWord
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4501,7 +4501,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: f5bc0fe67e1def245ae7daf8c0a83805, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d9d377e554c54e34b90ff5ddfedab549, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4527,7 +4527,7 @@ GameObject:
   - component: {fileID: 2016070290}
   - component: {fileID: 2016070289}
   m_Layer: 5
-  m_Name: BtnHukarereTxt
+  m_Name: BtnNokeTxt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4549,8 +4549,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 21.3, y: 5}
-  m_SizeDelta: {x: 181.8, y: 47.6}
+  m_AnchoredPosition: {x: -0.000024319, y: 5}
+  m_SizeDelta: {x: 130, y: 47.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2016070289
 MonoBehaviour:
@@ -4617,7 +4617,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: ea00f3f02a010274abe5fba01cd62fcd,
+          m_ObjectArgument: {fileID: 8300000, guid: 7f54caba666e0b648b317f6e3e3b1b7b,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -4714,7 +4714,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 32018fee26c86da4382805b309385418, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a97e3f66a9a91ce48bbe357f40c6b572, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4740,7 +4740,7 @@ GameObject:
   - component: {fileID: 2060516151}
   - component: {fileID: 2060516150}
   m_Layer: 5
-  m_Name: BtnHipiTxt
+  m_Name: BtnNihoTxt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4830,7 +4830,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 7e6eea2303e05184ba870cab3f47267b,
+          m_ObjectArgument: {fileID: 8300000, guid: acc73477ac759f249ba172c27d58051c,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -4940,7 +4940,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: aporo
+  m_Text: ngata
 --- !u!222 &2064979632
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4959,7 +4959,7 @@ GameObject:
   - component: {fileID: 2105593520}
   - component: {fileID: 2105593519}
   m_Layer: 5
-  m_Name: BtnHekiImage
+  m_Name: BtnNgokiImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4981,8 +4981,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 7.0000267}
-  m_SizeDelta: {x: 118.6, y: 109.7}
+  m_AnchoredPosition: {x: 5.6, y: 7.0000267}
+  m_SizeDelta: {x: 150.5, y: 109.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2105593519
 MonoBehaviour:
@@ -5049,7 +5049,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 16c53ba5152b64c4bb66daf95aa9e0ac,
+          m_ObjectArgument: {fileID: 8300000, guid: 89c89ea959eb4ce41ae88bf3e6bd5ed1,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -5104,7 +5104,7 @@ GameObject:
   - component: {fileID: 2109405830}
   - component: {fileID: 2109405829}
   m_Layer: 5
-  m_Name: BtnHipiImage
+  m_Name: BtnNihoImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5194,7 +5194,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 7e6eea2303e05184ba870cab3f47267b,
+          m_ObjectArgument: {fileID: 8300000, guid: acc73477ac759f249ba172c27d58051c,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0

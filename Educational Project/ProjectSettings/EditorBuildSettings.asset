@@ -419,3 +419,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DictionaryScenes/Dic3.unity
     guid: 480c6740d4cbacb47a576cef4de78bb9
+  - enabled: 1
+    path: Assets/Scenes/DictionaryScenes/Dic4.unity
+    guid: e8bac7681d216de49ab5bc2e38707cd7
