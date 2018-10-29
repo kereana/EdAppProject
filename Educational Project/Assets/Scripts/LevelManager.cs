@@ -15,9 +15,14 @@ public class LevelManager : MonoBehaviour {
         SceneManager.LoadScene("Buttons");
     }
 
-    public void Dictionary()
+    public void Dictionary2()
     {
-        SceneManager.LoadScene("Dictionary");
+        SceneManager.LoadScene("Dictionary2");
+    }
+
+    public void Dic1()
+    {
+        SceneManager.LoadScene("Dic1");
     }
 
     public void ForwardButton()
