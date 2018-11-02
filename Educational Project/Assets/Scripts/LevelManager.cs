@@ -15,9 +15,9 @@ public class LevelManager : MonoBehaviour {
         SceneManager.LoadScene("Buttons");
     }
 
-    public void Dictionary2()
+    public void Dictionary()
     {
-        SceneManager.LoadScene("Dictionary2");
+        SceneManager.LoadScene("Dic1");
     }
 
     public void Dic1()
