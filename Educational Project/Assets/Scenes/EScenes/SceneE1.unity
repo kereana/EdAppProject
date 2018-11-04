@@ -1845,7 +1845,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 826893153}
-        m_MethodName: Dic1
+        m_MethodName: DicA1
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

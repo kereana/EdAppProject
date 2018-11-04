@@ -175,7 +175,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: retireti
+  m_Text: ngeru
 --- !u!222 &12576020
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -191,7 +191,7 @@ GameObject:
   m_Component:
   - component: {fileID: 16060409}
   m_Layer: 5
-  m_Name: RopereWord
+  m_Name: NgokiWord
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -293,7 +293,7 @@ GameObject:
   m_Component:
   - component: {fileID: 118666869}
   m_Layer: 5
-  m_Name: RiwaiImage
+  m_Name: NgiraImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -395,7 +395,7 @@ GameObject:
   m_Component:
   - component: {fileID: 142998808}
   m_Layer: 5
-  m_Name: RopereImage
+  m_Name: NgokiImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -734,6 +734,80 @@ RectTransform:
   m_AnchoredPosition: {x: -17, y: 82.92502}
   m_SizeDelta: {x: 161.6, y: 113.9}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &286901008
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 286901009}
+  - component: {fileID: 286901011}
+  - component: {fileID: 286901010}
+  m_Layer: 5
+  m_Name: TextTohuto (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &286901009
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 286901008}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1278427282}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 13, y: 10.924999}
+  m_SizeDelta: {x: 36.4, y: 44.15}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &286901010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 286901008}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.014705896, g: 0.014814028, b: 0.014814028, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 687dcec43b2f746efa5a1ceaf3ba0276, type: 3}
+    m_FontSize: 40
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 0
+    m_MaxSize: 100
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: '-'
+--- !u!222 &286901011
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 286901008}
 --- !u!1 &302792754
 GameObject:
   m_ObjectHideFlags: 0
@@ -746,7 +820,7 @@ GameObject:
   - component: {fileID: 302792757}
   - component: {fileID: 302792756}
   m_Layer: 5
-  m_Name: BtnRiwaiImage
+  m_Name: BtnNgiraImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -836,7 +910,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: f9f126e29b553a441912c63bec13f11d,
+          m_ObjectArgument: {fileID: 8300000, guid: 0b0831abd86219b459b391777de48f04,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -962,7 +1036,7 @@ GameObject:
   m_Component:
   - component: {fileID: 460563695}
   m_Layer: 5
-  m_Name: RetiretiWord
+  m_Name: NgeruWord
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -996,7 +1070,7 @@ GameObject:
   m_Component:
   - component: {fileID: 537635926}
   m_Layer: 5
-  m_Name: RuruImage
+  m_Name: NgutuImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1166,7 +1240,7 @@ GameObject:
   m_Component:
   - component: {fileID: 677619912}
   m_Layer: 5
-  m_Name: RiwaiWord
+  m_Name: NgiraWord
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1258,7 +1332,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: ruru
+  m_Text: ngutu
 --- !u!222 &719796199
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1345,7 +1419,7 @@ GameObject:
   - component: {fileID: 737752313}
   - component: {fileID: 737752312}
   m_Layer: 5
-  m_Name: BtnRetiretiImage
+  m_Name: BtnNgeruImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1435,7 +1509,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: b9ac50b128bf864428935c1d6e37739f,
+          m_ObjectArgument: {fileID: 8300000, guid: 0430e4198202b2b408b3ecd825512317,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -1490,7 +1564,7 @@ GameObject:
   - component: {fileID: 824654823}
   - component: {fileID: 824654822}
   m_Layer: 5
-  m_Name: BtnRuruImage
+  m_Name: BtnNgutuImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1512,8 +1586,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 7.0000267}
-  m_SizeDelta: {x: 118.6, y: 109.7}
+  m_AnchoredPosition: {x: 0.0000038147, y: 0}
+  m_SizeDelta: {x: 161.6, y: 78.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &824654822
 MonoBehaviour:
@@ -1580,7 +1654,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 2f5a324433803ad46ac3a3ba2a5f22da,
+          m_ObjectArgument: {fileID: 8300000, guid: e2c01ded0b0b37a4d9c35f6308374f92,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -1632,7 +1706,7 @@ GameObject:
   m_Component:
   - component: {fileID: 859891624}
   m_Layer: 5
-  m_Name: RuruWord
+  m_Name: NgutuWord
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1907,7 +1981,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 5065d4fe27fe8a04caae365c536a3bbc, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3f2d4a97c081be24595702cf10baf6a0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1955,8 +2029,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0000076293945, y: 6}
-  m_SizeDelta: {x: 207.5, y: 47.6}
+  m_AnchoredPosition: {x: -0.000005722, y: 6}
+  m_SizeDelta: {x: 144.3, y: 47.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &899548717
 MonoBehaviour:
@@ -2078,7 +2152,7 @@ GameObject:
   - component: {fileID: 900677716}
   - component: {fileID: 900677715}
   m_Layer: 5
-  m_Name: BtnRetiretiTxt
+  m_Name: BtnNgeruTxt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2168,7 +2242,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: b9ac50b128bf864428935c1d6e37739f,
+          m_ObjectArgument: {fileID: 8300000, guid: 0430e4198202b2b408b3ecd825512317,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -2403,7 +2477,7 @@ GameObject:
   - component: {fileID: 1111011569}
   - component: {fileID: 1111011568}
   m_Layer: 5
-  m_Name: BtnRuruTxt
+  m_Name: BtnNgutuTxt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2425,8 +2499,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 21.3, y: 5}
-  m_SizeDelta: {x: 181.8, y: 47.6}
+  m_AnchoredPosition: {x: 0, y: 5}
+  m_SizeDelta: {x: 132.1, y: 47.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1111011568
 MonoBehaviour:
@@ -2685,7 +2759,8 @@ RectTransform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 286901009}
   m_Father: {fileID: 2021325680}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2726,7 +2801,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: ropere
+  m_Text: ngoki
 --- !u!222 &1278427284
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2861,7 +2936,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 856abdf8c65d81f4688ba95b3ef36c6b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a97e3f66a9a91ce48bbe357f40c6b572, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3064,7 +3139,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: riwai
+  m_Text: ngira
 --- !u!222 &1590755315
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3270,7 +3345,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 4f1b302401fe9af49a10600da4a8306c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d9d377e554c54e34b90ff5ddfedab549, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3327,7 +3402,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1804498046}
   m_Layer: 5
-  m_Name: RetiretiImage
+  m_Name: NgeruImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3429,18 +3504,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 165424484}
-        m_MethodName: LoadLastScene
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 165424484}
-        m_MethodName: MainMenu
+        m_MethodName: BackButton
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -3703,7 +3767,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 391b2330e1de76147b5babfdcf101b26, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9c618d41a0a468c4e84e536353a1a1f5, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3729,7 +3793,7 @@ GameObject:
   - component: {fileID: 1995612448}
   - component: {fileID: 1995612447}
   m_Layer: 5
-  m_Name: BtnRiwaiTxt
+  m_Name: BtnNgiraTxt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3819,7 +3883,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: f9f126e29b553a441912c63bec13f11d,
+          m_ObjectArgument: {fileID: 8300000, guid: 0b0831abd86219b459b391777de48f04,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -3874,7 +3938,7 @@ GameObject:
   - component: {fileID: 2021325682}
   - component: {fileID: 2021325681}
   m_Layer: 5
-  m_Name: BtnRopereTxt
+  m_Name: BtnNgokiTxt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3896,8 +3960,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0000076293945, y: 6}
-  m_SizeDelta: {x: 207.5, y: 47.6}
+  m_AnchoredPosition: {x: -0.000011444, y: 0}
+  m_SizeDelta: {x: 134, y: 47.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2021325681
 MonoBehaviour:
@@ -3964,7 +4028,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 28a8b71fb1b50354e9d04d3b904ce89f,
+          m_ObjectArgument: {fileID: 8300000, guid: 89c89ea959eb4ce41ae88bf3e6bd5ed1,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -4019,7 +4083,7 @@ GameObject:
   - component: {fileID: 2031802500}
   - component: {fileID: 2031802499}
   m_Layer: 5
-  m_Name: BtnRopereImage
+  m_Name: BtnNgokiImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4041,8 +4105,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000005722, y: 4.55}
-  m_SizeDelta: {x: 108.8, y: 104.8}
+  m_AnchoredPosition: {x: -0.000012397999, y: 0}
+  m_SizeDelta: {x: 161.6, y: 75.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2031802499
 MonoBehaviour:
@@ -4109,7 +4173,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 28a8b71fb1b50354e9d04d3b904ce89f,
+          m_ObjectArgument: {fileID: 8300000, guid: 89c89ea959eb4ce41ae88bf3e6bd5ed1,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -4331,8 +4395,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 6}
-  m_SizeDelta: {x: 139.3, y: 47.647}
+  m_AnchoredPosition: {x: -0.0000038147, y: 6}
+  m_SizeDelta: {x: 182.8, y: 47.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2138709212
 MonoBehaviour:

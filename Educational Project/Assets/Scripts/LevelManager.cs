@@ -25,6 +25,61 @@ public class LevelManager : MonoBehaviour {
         SceneManager.LoadScene("Dic1");
     }
 
+    public void DicA1()
+    {
+        SceneManager.LoadScene("DicA1");
+    }
+
+    public void DictH1()
+    {
+        SceneManager.LoadScene("DictH1");
+    }
+
+    public void DictK1()
+    {
+        SceneManager.LoadScene("DictK1");
+    }
+
+    public void DictM1()
+    {
+        SceneManager.LoadScene("DictM1");
+    }
+
+    public void DictN1()
+    {
+        SceneManager.LoadScene("DictN1");
+            }
+
+    public void DictNg()
+    {
+        SceneManager.LoadScene("DictNg");
+    }
+    public void DictP1()
+    {
+        SceneManager.LoadScene("DictP1");
+
+    }
+
+    public void DictR1()
+    {
+        SceneManager.LoadScene("DictR1");
+    }
+
+    public void DictT1()
+    {
+        SceneManager.LoadScene("DictT1");
+    }
+
+    public void DictW1()
+    {
+        SceneManager.LoadScene("DictW1");
+    }
+
+    public void DictWh1()
+    {
+        SceneManager.LoadScene("DictWh1");
+    }
+
     public void ForwardButton()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
