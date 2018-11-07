@@ -32,9 +32,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AScenes/SceneMA1.unity
     guid: 7d2f87cbf4c6e574cbe0df23e3462722
-  - enabled: 0
-    path: 
-    guid: 7d64fa4b06c1acd448a125ec9f4eb9ce
   - enabled: 1
     path: Assets/Scenes/AScenes/SceneNA.unity
     guid: dcc1c7559a67ea647b6b371aafb8a0f3
@@ -146,9 +143,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/HScenes/SceneH.unity
     guid: e88e4638dfe52614db85ebb121456536
-  - enabled: 0
-    path: 
-    guid: 575420ae5764a8b43808c43aac0a6cc8
   - enabled: 1
     path: Assets/Scenes/HScenes/SceneH1.unity
     guid: 51177d554f378de4d969809e30b4a84b
@@ -405,12 +399,6 @@ EditorBuildSettings:
     path: Assets/Scenes/UScenes/SceneWU1.unity
     guid: 12d104e32da6a9044b25218af84c9c8e
   - enabled: 1
-    path: Assets/Scenes/DictionaryScenes/Dictionary.unity
-    guid: 40fb59da27f7d4d44b4efc7d136b78d1
-  - enabled: 0
-    path: Assets/Scenes/DictionaryScenes/Dictionary2.unity
-    guid: 892de682fd0acb043aa9ae8059460372
-  - enabled: 1
     path: Assets/Scenes/DictionaryScenes/DicA1.unity
     guid: 68acb03b08b0709459f30eddd930a9e8
   - enabled: 1
@@ -443,15 +431,3 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DictionaryScenes/DictWh1.unity
     guid: 1c70e7793413e30499b2d6b758494886
-  - enabled: 1
-    path: Assets/Scenes/DictionaryScenes/Dic1.unity
-    guid: b932f15a39661214c9930ce776508ad9
-  - enabled: 1
-    path: Assets/Scenes/DictionaryScenes/Dic2.unity
-    guid: b4f5c9562398c1d4ea0d3e15b3ba5bc9
-  - enabled: 1
-    path: Assets/Scenes/DictionaryScenes/Dic3.unity
-    guid: 480c6740d4cbacb47a576cef4de78bb9
-  - enabled: 1
-    path: Assets/Scenes/DictionaryScenes/Dic4.unity
-    guid: e8bac7681d216de49ab5bc2e38707cd7
